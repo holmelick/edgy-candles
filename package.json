@@ -26,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/holmelick/salmon-cookies/issues"
   },
-  "homepage": "https://github.com/holmelick/salmon-cookies#readme"
+  "homepage": "https://github.com/holmelick/salmon-cookies#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+    "normalize.css": "^8.0.0"
+  }
 }
