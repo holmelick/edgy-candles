@@ -140,7 +140,7 @@ var products = [
         colors: ["red"],
         materials: ["20% wood","40% scent","40% wax"],
         brand: "Spookz",
-        categories: ["Halloween","Fancy"],
+        categories: ["Halloween","Fancy","Blood"],
         product_id: "C1080"
     },
     {
